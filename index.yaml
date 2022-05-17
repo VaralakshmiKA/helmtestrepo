@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  repotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-17T11:12:57.287813213Z"
+    description: A Helm chart for Kubernetes
+    digest: 79cb6f8d7ede5f1cfe5444e12423dbc9a73c164e89b05dbde7609f14c6e65e87
+    name: repotest
+    type: application
+    urls:
+    - repotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-17T11:12:57.286669856Z"
